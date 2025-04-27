@@ -1,6 +1,6 @@
 # Predictive Coding Simulation and Replication Study: Orientation Discrimination and Intelligence
 
-This repository contains two major components of a research project conducted as part of the Berkeley Undergraduate Lab of Cognitive Science and Psychology (ULAB) at the University of California, Berkeley.
+This repository contains two major components of a research project conducted as part of the Berkeley Undergraduate Lab of Psychology & Cognitive Sciences (ULAB) at the University of California, Berkeley.
 
 ---
 
